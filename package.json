@@ -1,0 +1,27 @@
+npm install whatsapp-web.js qrcode-terminal
+{
+    "name": "toman-amperious-v1",
+    "version": "1.0.0",
+    "description": "WhatsApp bot (ES module) for Toman Amperious",
+    "type": "module",
+    "main": "index.js",
+    "author": "Ren Tech",
+    "license": "MIT",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "NODE_ENV=development node index.js"
+    },
+    "keywords": [
+        "whatsapp",
+        "bot",
+        "toman",
+        "amperious"
+    ],
+    "engines": {
+        "node": ">=18"
+    },
+    "dependencies": {
+        "whatsapp-web.js": "^1.19.0",
+        "qrcode-terminal": "^0.12.0"
+    }
+}
