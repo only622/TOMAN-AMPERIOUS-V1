@@ -19,9 +19,6 @@
 > – Toman Empire
 ```
 
-Voici une description propre et stylée pour ton bot *TOMAN AMPERIOUS v1*, que tu peux utiliser dans ton `README.md`, GitHub, ou même une présentation :
-
-```markdown
 ⚔️ TOMAN AMPERIOUS v1 – WhatsApp Bot (Node.js + ESModule)
 
 *TOMAN AMPERIOUS v1* est un bot WhatsApp puissant et polyvalent, conçu pour offrir une expérience automatisée, fluide et sécurisée sur WhatsApp. Basé sur Node.js et une structure modulaire en ESModule, ce bot est inspiré de la puissance du gang *Toman* – contrôle total, discipline et précision.
